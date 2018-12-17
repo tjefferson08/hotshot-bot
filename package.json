@@ -1,0 +1,9 @@
+{
+  "name": "hotshot-bot",
+  "version": "0.0.1",
+  "description": "pull a screenshot from a gif!",
+  "main": "index.js",
+  "repository": "https://github.com/tjefferson08/hotshot-bot",
+  "author": "Travis Jefferson",
+  "license": "MIT"
+}
